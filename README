@@ -1,5 +1,0 @@
-Repository for all small projects that dont deserve an own one.
-
-1. Mini-chess [chess.cpp]
-2. A* Algorithm [a_star.cpp]
-3. Small-Game [game.cpp]
